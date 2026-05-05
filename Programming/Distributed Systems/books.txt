@@ -1,0 +1,7 @@
+ничего из этого тоже пока не начинал :)
+
+1) "Designing Data-Intensive Applications" — Martin Kleppmann (2017)
+
+2) "Database Internals" — Alex Petrov (2019)
+
+3) "Systems Performance" — Brendan Gregg (2020, 2-е изд.)

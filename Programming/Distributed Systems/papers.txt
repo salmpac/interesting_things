@@ -1,0 +1,13 @@
+1) "Paxos Made Simple" — Leslie Lamport (2001)
+
+2) "In Search of an Understandable Consensus Algorithm (Raft)" — Ongaro & Ousterhout (2014)
+
+3) "The Google File System" — Ghemawat et al. (2003)
+
+4) "MapReduce: Simplified Data Processing on Large Clusters" — Dean & Ghemawat (2004)
+
+5) "Dynamo: Amazon's Highly Available Key-Value Store" — DeCandia et al. (2007)
+
+6) "Bigtable: A Distributed Storage System for Structured Data" — Chang et al. (2006)
+
+7) "Spanner: Google's Globally-Distributed Database" — Corbett et al. (2012)

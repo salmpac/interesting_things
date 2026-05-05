@@ -1,0 +1,20 @@
+пока ничего из этого не прочитал целиком :)
+
+1) https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+
+Это фундаментальное руководство по параллельному программированию для систем с общей памятью, написанное одним из ключевых разработчиков ядра Linux.
+
+2) https://web.cs.ucla.edu/~harryxu/courses/295/fall13/synth-coherence.pdf
+
+Daniel J. Sorin, Mark D. Hill, and David A. Wood. A Primer on Memory Consistency and Cache Coherence. Synthesis Lectures on Computer Architecture. Morgan & Claypool, 2011
+
+Это академический учебник о двух фундаментальных концепциях многопроцессорных систем:
+Cache Coherence — когерентность кэшей
+Memory Consistency — согласованность памяти
+
+3) https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf
+
+Одна из книг которые советует Роман Липовский на своем курсе по Concurrency
+
+Это фундаментальный учебник по теории и практике многопоточного программирования — фокус на алгоритмах и структурах данных для многопроцессорных систем.
+Дополняет первую книжку
