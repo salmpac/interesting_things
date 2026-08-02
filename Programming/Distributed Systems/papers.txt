@@ -11,3 +11,5 @@
 6) "Bigtable: A Distributed Storage System for Structured Data" — Chang et al. (2006)
 
 7) "Spanner: Google's Globally-Distributed Database" — Corbett et al. (2012)
+
+https://aws.amazon.com/ru/builders-library/fairness-in-multi-tenant-systems/

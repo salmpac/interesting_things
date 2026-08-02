@@ -18,3 +18,11 @@ Memory Consistency — согласованность памяти
 
 Это фундаментальный учебник по теории и практике многопоточного программирования — фокус на алгоритмах и структурах данных для многопроцессорных систем.
 Дополняет первую книжку
+
+4) What Every Programmer Should Know About Memory" (Ulrich Drepper, 2007)
+
+Intel 64 and IA-32 Architectures Software Developer’s Manuals (SDM)
+
+Volume 3 (System Programming Guide), Chapter 8 (Multiple-Processor Management).
+
+ARM Architecture Reference Manual
